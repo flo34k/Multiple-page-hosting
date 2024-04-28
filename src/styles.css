@@ -17,8 +17,13 @@ p{
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;  
     font-weight: 200;
+    text-align: center;
 }
 footer{
     display: flex;
     justify-content: space-around;
+}
+.pic {
+    display: flex;
+    justify-content: space-evenly;
 }
